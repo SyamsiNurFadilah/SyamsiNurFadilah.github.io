@@ -1,0 +1,16 @@
+* {
+  font-family: "poppins", sans-serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #dcf2f1;
+}
+
+#certificate {
+  background-color: #dcf2f1;
+}
+
+section {
+  padding-top: 5rem;
+}
